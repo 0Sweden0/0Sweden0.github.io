@@ -1,0 +1,44 @@
+.container{
+  display: flex;
+  justify-content: space-around;
+}
+
+.Foot{
+  display: flex;
+  justify-content: flex-end;
+
+}
+p{
+  font-size: 22px;
+}
+.OTC{
+  float: right;
+  width: 1050px;
+}
+
+h1{
+  display: flex;
+justify-content: center;
+}
+
+.Box{
+  display: flex;
+  justify-content: space-between;
+}
+
+.Box1{
+  float:left;
+}
+
+.Box2{
+  float:right;
+}
+
+.P5{
+  float:right;
+  margin-right: 750px;
+}
+
+body{
+  background-color: #F5E74B;
+}
